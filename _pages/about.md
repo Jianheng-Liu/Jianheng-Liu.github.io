@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MSc in Robotics & Computation @ [University College London](https://www.ucl.ac.uk/)
+subtitle: MSc in Robotics & Computation @ <a href='https://www.ucl.ac.uk/'>University College London</a>
 
 profile:
   align: right
