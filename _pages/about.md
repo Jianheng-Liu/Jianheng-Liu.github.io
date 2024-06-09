@@ -21,7 +21,7 @@ I'm a MSc student in Robotics and Computation at [University College London (UCL
 
 Prior to UCL, I received my Bachelor’s degree from [Beihang University](https://ev.buaa.edu.cn) in 2023. I worked as a research assistant at [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn), working on developing navigation and target detection methods for mobile robots. I also did summer internships at [Tencent](https://www.tencentcloud.com), working on developing and implementing object detection and tracking algorithms.
 
-I'm constantly exploring how machines can learn and adapt to new environments, solve complex problems, and interact with the world around them. My projects range from building intelligent robotic systems to developing advanced algorithms.
+I'm constantly exploring how machines can learn and adapt to new environments, solve practical problems, and interact with the world around them. My projects range from building intelligent robotic systems to developing advanced algorithms.
 
 This website is my digital playground share some my projects and work, and I'm always excited to connect with others who share my interests. 
 
