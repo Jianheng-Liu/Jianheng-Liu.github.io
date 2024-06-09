@@ -20,9 +20,9 @@ social: false # includes social icons at the bottom of the page
 
 Hi there!👋 
 
-I'm a MSc student in Robotics and Computation at University College London (UCL). My academic interest is deeply rooted in the fascinating realms of reinforcement learning, learning representations and reasoning, and robotics. 
+I'm a MSc student in Robotics and Computation at [University College London (UCL)](https://www.ucl.ac.uk). My academic interest is deeply rooted in the fascinating realms of reinforcement learning, learning representations and reasoning, and robotics. 
 
-Prior to UCL, I received my Bachelor’s degree from Beihang University in 2023. I also did summer internships at Tencent, working on developing and implementing object detection and tracking recognition algorithms.
+Prior to UCL, I received my Bachelor’s degree from [Beihang University](https://ev.buaa.edu.cn) in 2023. I also did summer internships at [Tencent](https://www.tencentcloud.com), working on developing and implementing object detection and tracking recognition algorithms.
 
 I'm constantly exploring how machines can learn and adapt to new environments, solve complex problems, and interact with the world around them. My projects range from building intelligent robotic systems to developing advanced algorithms.
 
