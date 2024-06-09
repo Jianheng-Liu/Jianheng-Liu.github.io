@@ -15,8 +15,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there!👋 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm a passionate MSc student in Robotics and Computation at University College London (UCL). My interest is deeply rooted in the fascinating realms of `reinforcement learning`, `learning representations and reasoning`, and `robotics`.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm constantly exploring how machines can learn and adapt to new environments, solve complex problems, and interact with the world around them. My projects range from building intelligent robotic systems to developing advanced algorithms.
+
+This website is my digital playground where I showcase some of the projects I've worked on. It's a space to share my work, and I'm always excited to connect with others who share my interests. Feel free to reach out—I look forward to hearing from you!😊🤖
