@@ -4,9 +4,6 @@ title: about
 permalink: /
 subtitle: MSc in Robotics & Computation @ <a href='https://www.ucl.ac.uk/'>University College London</a>
 
-nav: true
-nav_order: 1
-
 profile:
   align: right
   image: selfie.jpg
