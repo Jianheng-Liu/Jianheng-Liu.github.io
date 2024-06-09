@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Gallery
+title: gallery
 permalink: /gallery/
 description: Explore my photography collection.
 nav: true
-nav_order: 4
+nav_order: 6
 ---
 
 <div class="gallery">
