@@ -23,4 +23,4 @@ Prior to UCL, I received my Bachelor’s degree from [Beihang University](https:
 
 I'm constantly exploring how machines can learn and adapt to new environments, solve practical problems, and interact with the world around them. My projects range from building intelligent robotic systems to developing advanced algorithms.
 
-This website is my digital playground share some my projects and work. Feel free to reach out—I look forward to hearing from you!😊🤖
+This website is my digital playground share some my projects and work. Feel free to reach out — I look forward to hearing from you!😊🤖
