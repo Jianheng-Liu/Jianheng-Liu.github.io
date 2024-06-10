@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MSc in Robotics & Computation @ <a href='https://www.ucl.ac.uk/'>University College London</a>
+subtitle: <a href='https://www.ucl.ac.uk/'>University College London</a>, <a href='https://www.ucl.ac.uk/computer-science/'>Dept of Computer Science</a>
 
 profile:
   align: right
